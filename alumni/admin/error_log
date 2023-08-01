@@ -1,0 +1,51 @@
+[13-Nov-2021 07:48:58 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 5
+[13-Nov-2021 07:51:24 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'kmit_alumni'@'localhost' to database 'kmit_alumni_db' in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 5
+[13-Nov-2021 07:54:59 UTC] Inside
+[13-Nov-2021 08:23:41 UTC] Inside
+[13-Nov-2021 11:08:35 UTC] Inside
+[13-Nov-2021 11:10:21 UTC] Inside
+[13-Nov-2021 11:11:25 UTC] Inside
+[13-Nov-2021 11:14:13 UTC] Inside
+[13-Nov-2021 11:20:35 UTC] Inside
+[13-Nov-2021 11:25:26 UTC] Inside
+[20-Nov-2021 06:14:57 UTC] Inside
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: firstname in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 12
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: lastname in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 13
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: gender in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 14
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: rollnumber in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 15
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: email in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 17
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: mnumber in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 18
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: department in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 19
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: masters in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 20
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: currcity in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 21
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: currcountry in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 22
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: currstatus in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 23
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined index: profilepic in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 25
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined index: heproof in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 30
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined index: stuproof in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 35
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined index: epproof in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 40
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined index: cpproof in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 45
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: heuniv in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 51
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: helocation in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 54
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: hedegree in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 57
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: heyear in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 60
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: wemployer in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 63
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: wlocation in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 66
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: wdesignation in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 69
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: wsdate in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 72
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: wedate in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 75
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: stuniv in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 78
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: stlocation in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 81
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: stucourse in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 84
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: stsdate in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 87
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: stedate in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 90
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: otheroption in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 93
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: eplocation in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 96
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: eplocation in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 99
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: epdesignation in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 102
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: epsdate in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 105
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: epcin in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 108
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: cpoption in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 111
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: cpdate in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 114
+[20-Nov-2021 06:14:57 UTC] PHP Notice:  Undefined variable: otcomments in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 117
+[13-Jan-2022 12:28:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kmit/public_html/alumni/admin/alumni_signup.php on line 5

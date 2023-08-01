@@ -1,0 +1,60 @@
+{
+    "Achievements":
+    [
+    {
+        "id": "1",
+        "Year(s)": "2020",
+        "Details": "Awarded INR 50 Lakhs for development of Clinical Translational Research CAD project (BIRAC/IKP01207/BIG-16/20) by BIRAC (Bio-technology Industry Research Assistance Council), Dept. of Biotechnology, and Govt. of India."
+    },
+    {
+        "id": "2",
+        "Year(s)": "2020",
+        "Details": "Awarded 4.5 stars by Institution Innovation Council (IIC) for undertaking various activities prescribed by Innovation Cell, MoE, Govt. of India to promote Innovation and Start-Up culture in campus."
+    },
+    {
+        "id": "3",
+        "Year(s)": "2019",
+        "Details": "Ranked 91 globally in IEEEXTREME Competition." 
+    },
+    {
+        "id": "4",
+        "Year(s)": "2018 & 2019",
+        "Details": "Ranked 1 in NPTEL"  
+    },
+    {
+        "id": "5",
+        "Year(s)": "2018",
+        "Details": "Won 1st Prize in Smart India Hackathon "
+    },
+    {
+        "id": "6",
+        "Year(s)": "2017",
+        "Details": "Won the award for Best Academic Support at the Best 25 Higher Education Preparation Centre Awards for South Asia organised by Cambridge English Language Assessment"
+    },
+    {
+        "id": "7",
+        "Year(s)": "2016",
+        "Details": "Won the award for Innovation & Growth at the Cambridge English Annual Co-ordinators Meet. "        
+    },
+    {
+        "id": "8",
+        "Year(s)": "2015",
+        "Details": "Finalists at  2015 Cambridge English Language Assessment awards for preparation centres for the category Digital Innovation & Technology. We were the only college in the entire of Asia to have made it."     
+    },
+    {
+        "id": "9",
+        "Year(s)": "2013",
+        "Details": "Bagged 2nd  position  all over  India in Microsoft Imagine cup."
+    },
+    {
+        "id": "10",
+        "Year(s)": "2018 - present",
+        "Details": "64 GSoC Projects"        
+    },
+    {
+        "id": "11",
+        "Year(s)": "2010",
+        "Details": "Ranked first in IBM The Great Mind Challenge, a National Competition. "        
+    }
+    ]
+    }

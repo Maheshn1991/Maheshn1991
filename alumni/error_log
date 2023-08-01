@@ -1,0 +1,12 @@
+[13-Nov-2021 07:24:42 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kmit/public_html/alumni/admin/db_connect.php on line 3
+[13-Nov-2021 07:24:42 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kmit/public_html/alumni/signup.php on line 165
+[13-Nov-2021 07:24:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/kmit/public_html/alumni/signup.php:166
+Stack trace:
+#0 {main}
+  thrown in /home/kmit/public_html/alumni/signup.php on line 166
+[13-Nov-2021 07:26:17 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kmit/public_html/alumni/admin/db_connect.php on line 3
+[13-Nov-2021 07:26:17 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kmit/public_html/alumni/signup.php on line 165
+[13-Nov-2021 07:26:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/kmit/public_html/alumni/signup.php:166
+Stack trace:
+#0 {main}
+  thrown in /home/kmit/public_html/alumni/signup.php on line 166
